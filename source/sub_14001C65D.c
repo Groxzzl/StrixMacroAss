@@ -1,0 +1,12 @@
+// sub_14001C65D @ 0x14001C65D
+#include <stdint.h>
+#include <windows.h>
+
+__int64 __fastcall sub_14001C65D(unsigned int a1)
+{
+  unsigned int v1; // eax
+
+  _BitScanReverse(&v1, a1);
+  return v1 ^ 0x1F;
+}
+
