@@ -17,7 +17,7 @@ Anti-debug : none
 Anti-VM : none
 OOP : none (plain C)
 
-# Bypass Ocean?, sure bro
+# Bypass Ocean? sure bro
 
 sub_140016585.c calls VirtualProtect.
 sub_140016863.c also calls VirtualProtect.
@@ -69,6 +69,7 @@ StrixMacroAss/
 # Credits
 - Vgxzu - making this client
 - GroxzzI - Cracking
+- Ara - For buying ts
 - Skids - Thinking Runtime Broker.exe is stealth.
 
 # GUI
