@@ -67,7 +67,7 @@ StrixMacroAss/
 5. Enjoy getting detected in ss
 
 # Credits
-- Vinear - making this client
+- Vgxzu - making this client
 - GroxzzI - Cracking
 - Skids - Thinking Runtime Broker.exe is stealth.
 
